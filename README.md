@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<header id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/clips/cameronpaulsmith-cat-typing-meme-nuufztgCvyJZIuSkgd)" width="100"/>
+</header>
+
 <!--
 **Nickitas/Nickitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
