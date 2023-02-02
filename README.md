@@ -3,19 +3,19 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-2a0b34?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/id180302602">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK-2a0b34?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/Nidatsky">
+    <img src="https://img.shields.io/badge/Telegram-2a0b34?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nickitas&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Nickitas&style=flat-square&color=2a0b34" alt=""/>
 </div>
 
 <h1 align="center">
@@ -31,8 +31,8 @@
 ---
 
  ## ⭐  About Me
-<h2>A passionate frontend developer from Russia, Rostov-on-Don</h2>
-<p>I find Interest in web programming and internet technologies, artificial intelligence and information security</p>
+<h2>A passionate Frontend developer from Russia, Rostov-on-Don</h2>
+<p>I find Interest in web programming and Internet Technologies, Artificial Intelligence and Information Security</p>
 
 - 🔭 I’m currently working on [Information system for ensuring control and management of access at the facility](https://github.com/Nickitas/CONTROL)
 
@@ -42,20 +42,20 @@
 
 - 👨‍💻 I`m working as an **engineer in the integrated security management department at the Don State Technical University**
 
-- 📕 All of my projects are available at [on my github](https://github.com/Nickitas)
+- 📕 All of my projects are available at [my github](https://github.com/Nickitas)
 
-- 💻 Development experience: often I have to write **simple web applications** or **landing pages**, automated solution of various tasks **using python**. Also development and implementation of **own software in the department**
+- 💻 Development experience includes writing **simple web applications** or **landing pages**, automated solution of various tasks in **Python**. Also, development and implementation of **own software in the department**
 
 - 📫 How to reach me **nickitadatsky@gmail.com**
 
-- 📄 Know about my experiences: I often create the client side of sites or web applications using figma layouts or my own design. The area of programming in the field of artificial intelligence is also interesting. Passionate about IT, taking into account the latest trends and innovations in the field of programming, I try to balance between novelty, clean code and efficiency.
+- 📄 А little about my. I often create the **client side** of sites or web applications using **Figma** layouts or my own design. The area of programming in the field of Artificial Intelligence is also interesting. Passionate about IT, taking into account the latest trends and innovations in the field of programming, I try to balance between novelty, clean code and efficiency
 
-- ⚡ I consider the strengths: the ability to **speak publicly** and participate in discussions, high **communication skills**, **friendly disposition**, the ability to **work both** in a team and independently, to occupy one of the **managerial roles**, a fairly **high stress resistance and quick recovery**
+- ⚡ I consider my strengths are the ability to **speak publicly** and participate in discussions, high **communication skills**, **friendly disposition**, the ability to **work both** in a team and independently, to occupy one of the **managerial roles**, a fairly **high stress resistance and quick recovery**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <img src="https://www.svgrepo.com/show/299513/telegram.svg" title="telegram" alt="telegram" width="20" height="20"/>
-  by telegram @Nidatsky
+  by telegram <a href="https://t.me/Nidatsky">@Nidatsky</a>
 </p>
 
 ---
@@ -67,7 +67,6 @@
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
   </div>
 </div>
 
@@ -115,16 +114,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="30" height="30"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="30" height="30"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="30" height="30"/>&nbsp;
   </div>
 </div>
 
 <div id="other">
   <h3>Other :</h3>
   <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="20" height="20"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="20" height="20"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="Git" alt="Git" width="20" height="20"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="30" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="Git" alt="Git" width="30" height="30"/>&nbsp;
   </div>
 </div>
 
@@ -145,11 +143,11 @@
 ## 📈  Profile statistics
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=nickitas&show_icons=true&locale=en" alt="nickitas" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickitas&" alt="nickitas" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nickitas&show_icons=true&locale=en&theme=dark" alt="nickitas" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickitas&theme=dark" alt="nickitas" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickitas&show_icons=true&locale=en&layout=compact" alt="nickitas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickitas&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickitas" />
   </p>
 </div>
 
