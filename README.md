@@ -129,26 +129,30 @@
 
 ---
 
-## 👅  Languages
-<p>
-  <img src="https://img.icons8.com/color/256/great-britain-circular.png" title="English" alt="eng" width="40" height="40"/>
-  ◉◉◉☉☉ ( Intermediate )
-</p>
-<p>
-   <img src="https://img.icons8.com/color/256/germany-circular.png" title="Deutsch" alt="dh" width="40" height="40"/>
-    ◉◉☉☉☉ ( Grundlagen )
-</p>
-
---- 
-
-## 📈  Profile statistics
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=nickitas&show_icons=true&locale=en&theme=dark" alt="nickitas" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickitas&theme=dark" alt="nickitas" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickitas&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickitas" />
-  </p>
+  <details align="left">
+    <summary><h2>👅  Languages</h2></summary>
+      <p>
+        <img src="https://img.icons8.com/color/256/great-britain-circular.png" title="English" alt="eng" width="40" height="40"/>
+        ◉◉◉☉☉ ( Intermediate )
+      </p>
+      <p>
+         <img src="https://img.icons8.com/color/256/germany-circular.png" title="Deutsch" alt="dh" width="40" height="40"/>
+          ◉◉☉☉☉ ( Grundlagen )
+      </p>
+  </details>
+</div>
+
+<div align="center">
+  <details align="left">
+    <summary><h2>📈  Profile statistics</h2></summary>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=nickitas&show_icons=true&locale=en&theme=dark" alt="nickitas" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickitas&theme=dark" alt="nickitas" />
+    </p>
+    <p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickitas&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickitas" />
+    </p>
+  </details>
 </div>
 
