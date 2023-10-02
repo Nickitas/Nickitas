@@ -19,19 +19,20 @@
 </div>
 
 <h1 align="center">
-  So, let's get acquainted
+  Hi! It's <a href='https://nickitas.github.io/Portfolio/'>Nickita</a> here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
 <div align="center">
-  <img src="https://kartinkin.net/uploads/posts/2021-07/thumbs/1625168291_39-kartinkin-com-p-minimalistichnii-fon-krasivie-foni-45.png" width="100%" style="border-radius: 20px"/>
+  <img src="https://kms-technology.com/wp-content/uploads/2023/03/iStock-1360927961-1-scaled.jpg" width="100%" style="border-radius: 20px"/>
 </div>
 
 ---
 
- ## ⭐  About Me
-<h2>A passionate Frontend developer from Russia, Rostov-on-Don</h2>
+ <h2>⭐  About Me</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=fff&background=2A0B34&vCenter=true&width=800&lines=A+passionate+Frontend+developer+from+Russia%2C+Rostov-on-Don" alt="Typing SVG" /></a>
+
 <p>I find Interest in web programming and Internet Technologies, Artificial Intelligence and Information Security</p>
 
 - 🔭 I’m currently working on [Information system for ensuring control and management of access at the facility](https://github.com/Nickitas/CONTROL)
@@ -60,7 +61,7 @@
 
 ---
 
- ## 🛠  My Tools
+ <h2>🛠  My Tools</h2>
  
  <div id="programming_languages">
   <h3>Programming Languages :</h3>
@@ -80,8 +81,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="30" height="30"/>&nbsp; 
    </div>
  </div>
 
@@ -147,13 +146,8 @@
 <div align="center">
   <details align="left">
     <summary><h2>📈  Profile statistics</h2></summary>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=nickitas&show_icons=true&locale=en&theme=dark" alt="nickitas" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickitas&theme=dark" alt="nickitas" />
-    </p>
-    <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickitas&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickitas" />
-    </p>
+      <p align="center"><img width='60%' align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickitas&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickitas" /></p>
+      <p align="center"><img width='60%' align="center" src="https://github-readme-stats.vercel.app/api?username=nickitas&show_icons=true&locale=en&theme=dark" alt="nickitas" /></p>
+      <p align="center"><img width='60%' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickitas&theme=dark" alt="nickitas" /></p>
   </details>
 </div>
-
