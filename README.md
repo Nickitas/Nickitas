@@ -47,8 +47,6 @@
 
 - ⚡ I consider my strengths are the ability to **speak publicly** and participate in discussions, high **communication skills**, **friendly disposition**, the ability to **work both** in a team and independently, to occupy one of the **managerial roles**, a fairly **high stress resistance and quick recovery**.
 
----
-
 <h2>📈  Profile statistics</h2>
 
   | Title              |       Visualization                                                                                                                                                                  | 
