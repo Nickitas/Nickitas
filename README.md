@@ -83,6 +83,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="65" height="65"/>&nbsp;
     <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" title="Zustand" alt="Zustand" width="110" height="65"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="65" height="65"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"  title="ViteJS" alt="ViteJS" width="65" height="65"/>&nbsp;
    </div>
  </div>
 
