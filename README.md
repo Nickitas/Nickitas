@@ -133,21 +133,5 @@
 ---
 
 <div align="center">
-  <details align="left">
-    <summary><h2>👅  Languages</h2></summary>
-      <p>
-        <img src="https://img.icons8.com/color/256/great-britain-circular.png" title="English" alt="eng" width="40" height="40"/>
-        ◉◉◉☉☉ ( Intermediate )
-      </p>
-      <p>
-         <img src="https://img.icons8.com/color/256/germany-circular.png" title="Deutsch" alt="dh" width="40" height="40"/>
-          ◉◉☉☉☉ ( Grundlagen )
-      </p>
-  </details>
-</div>
-
----
-
-<div align="center">
   <img src="https://kms-technology.com/wp-content/uploads/2023/03/iStock-1360927961-1-scaled.jpg" width="100%" style="border-radius: 20px"/>
 </div>
