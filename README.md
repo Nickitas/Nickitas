@@ -26,11 +26,7 @@
 <h2>⭐  About Me</h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1050&color=fff&background=2A0B34&vCenter=true&width=550&lines=A+passionate+developer+from+Russia%2C+Rostov-on-Don" alt="Typing SVG" /></a>
-I find Interest in:
-- **Web Programming**;
-- **Artificial Intelligence**;
-- **Information Security**.
-
+<p>I find Interest in <b>Web Programming</b>, <b>Artificial Intelligence</b>, <b>Information Security</b>.</p>
 
 
 - 🔭 I’m currently working on ACS systems. Some examples of these are: [TCSD_Pool-Cards](https://github.com/Nickitas/TCSD_Pool-Cards), [ACS_Trassir_API
