@@ -23,11 +23,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h2>⭐  About Me</h2>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1050&color=fff&background=2A0B34&vCenter=true&width=550&lines=A+passionate+developer+from+Russia%2C+Rostov-on-Don" alt="Typing SVG" /></a>
-<p>I find Interest in <b>Web Programming</b>, <b>Artificial Intelligence</b>, <b>Information Security</b>.</p>
 
+<h2>⭐  About Me </h2>
+
+<p>I find Interest in <b>Web Programming</b>, <b>Artificial Intelligence</b>, <b>Information Security</b>.</p>
 
 - 🔭 I’m currently working on ACS systems. Some examples of these are: [TCSD_Pool-Cards](https://github.com/Nickitas/TCSD_Pool-Cards), [ACS_Trassir_API
 ](https://github.com/Nickitas/ACS_Trassir_API), [TCSD_Buffets-Cams](https://github.com/Nickitas/TCSD_Buffets-Cams) and [Information system for ensuring control and management of access at the facility](https://github.com/Nickitas/CONTROL)
