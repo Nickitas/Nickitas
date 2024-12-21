@@ -27,16 +27,16 @@
 
 <h2>⭐  About Me </h2>
 
-<p>I find Interest in <b>Web Programming</b>, <b>Artificial Intelligence</b>, <b>Information Security</b>.</p>
+<p>I find Interest in <b>Web Programming</b>, <b>Artificial Intelligence</b> & <b>Information Security</b>.</p>
 
 - 🔭 I’m currently working on ACS systems. Some examples of these are: [TCSD_Pool-Cards](https://github.com/Nickitas/TCSD_Pool-Cards), [ACS_Trassir_API
-](https://github.com/Nickitas/ACS_Trassir_API), [TCSD_Buffets-Cams](https://github.com/Nickitas/TCSD_Buffets-Cams) and [Information system for ensuring control and management of access at the facility](https://github.com/Nickitas/CONTROL)
+](https://github.com/Nickitas/ACS_Trassir_API), [TCSD_Buffets-Cams](https://github.com/Nickitas/TCSD_Buffets-Cams) and [Information system to provide access control and management to live video on IP cameras in the enterprise](https://github.com/Nickitas/TCSD_CamView) ;
 
-- 🌱 I’m currently learning **by specialty in Artificial Intelligence Methods in Information Security Technologies** ;
+- 🌱 I’m currently learning an postgraduate course in **Mathematical Modelling, Numerical Methods and Program Complexes** ;
 
-- 👨‍🎓 I have master's degree in **Information Security** ;
+- 👨‍🎓 I have master's degree in **Artificial Intelligence Methods in Information Security Technologies** ;
 
-- 👨‍💻 I`m working as a Lead Frontend Developer in the **ООО ИКЦ "BETNETIX"** company. You can try the result now 👉 [BETNETIX](https://bk.xox.su) ;
+- 👨‍💻 I`m working as a Lead Frontend Developer in a startup company. Soon you will be able to see the result ;
 
 - 📕 All of my projects are available at [my github](https://github.com/Nickitas) ;
 
@@ -79,7 +79,7 @@
   <h3>Frontend Development :</h3>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="NextJS" alt="NextJS" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="65" height="65"/>&nbsp;
+    <img src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" title="TanStack Query" alt="TanStack Query" width="65" height="65"/>&nbsp;
     <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" title="Zustand" alt="Zustand" width="110" height="65"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="65" height="65"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"  title="ViteJS" alt="ViteJS" width="65" height="65"/>&nbsp;
@@ -90,7 +90,6 @@
   <h3>Backend Development :</h3>
    <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="65" height="65"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="65" height="65"/>&nbsp;
   </div>
 </div>
@@ -98,9 +97,8 @@
 <div id="ai_ml">
   <h3>AI/ML :</h3>
   <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="65" height="65"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="65" height="65"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" alt="keras" width="65" height="65"/>&nbsp;
   </div>
 </div>
 
@@ -125,9 +123,8 @@
 <div id="other">
   <h3>Other :</h3>
   <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="65" height="65"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="65" height="65"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="Git" alt="Git" width="65" height="65"/>&nbsp;
   </div>
 </div>
 
