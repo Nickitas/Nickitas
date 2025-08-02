@@ -25,12 +25,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1050&color=fff&background=2A0B34&vCenter=true&width=550&lines=A+passionate+developer+from+Russia%2C+Rostov-on-Don" alt="Typing SVG" /></a>
 
-<h2>⭐  About Me </h2>
+## ⭐  About
 
-<p>I find Interest in <b>Web Programming</b>, <b>Artificial Intelligence</b> & <b>Information Security</b>.</p>
+I find Interest in **Web**, **Artificial Intelligence** & **Information Security**.
 
-- 🔭 I’m currently working on ACS systems. Some examples of these are: [TCSD_Pool-Cards](https://github.com/Nickitas/TCSD_Pool-Cards), [ACS_Trassir_API
-](https://github.com/Nickitas/ACS_Trassir_API), [TCSD_Buffets-Cams](https://github.com/Nickitas/TCSD_Buffets-Cams) and [Information system to provide access control and management to live video on IP cameras in the enterprise](https://github.com/Nickitas/TCSD_CamView) ;
+- 🔭 I’m currently working on on algorithms for researching geometric images of coastal systems. You can follow my progress at [Aquatic-Coastal-Analysis](https://github.com/Nickitas/Aquatic-Coastal-Analysis);
 
 - 🌱 I’m currently learning an postgraduate course in **Mathematical Modelling, Numerical Methods and Program Complexes** ;
 
@@ -48,86 +47,89 @@
 
 - ⚡ I consider my strengths are the ability to **speak publicly** and participate in discussions, high **communication skills**, **friendly disposition**, the ability to **work both** in a team and independently, to occupy one of the **managerial roles**, a fairly **high stress resistance and quick recovery**.
 
-<h2>📈  Profile statistics</h2>
 
-  | Title              |       Visualization                                                                                                                                                                  | 
-  | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-  | <h6>Status</h6>    | <img width="100%" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=nickitas&show_icons=true&locale=en&theme=dark" alt="nickitas" />                       | 
-  | <h6>Languages</h6> | <img width="100%" style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickitas&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickitas" /> |
-  | <h6>Streaks</h6>   | <img width="100%" style="display: block; float: right;" src="https://github-readme-streak-stats.herokuapp.com/?user=nickitas&theme=dark" alt="nickitas" />                               |
+## 🛠  Tools
+
+ My stack of technologies and tools that I use in development.
+###### 🧑‍💻 Languages:
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+###### 🖥 Frontend:
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+![Zustand](https://img.shields.io/badge/-Zustand-614A1F?style=flat-square&logo=zustand)
+
+![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+###### ⚙ Backend:
+
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+###### 🗃 Database & ORMs:
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+###### 🤖 Machine Learning & AI:
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+###### 📊 Big Data:
+
+![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+![HBase](https://img.shields.io/badge/-HBase-1BA3E8?style=flat-square&logo=apachehbase&logoColor=white)
 
 
-<h3 align="left">Connect with me by Telegramm:</h3>
-  <div style="display: flex; align-items: center;">
-    <img src="https://www.svgrepo.com/show/299513/telegram.svg" title="telegram" alt="telegram" width="40" height="40"/>
-    <a href="https://t.me/Nidatsky">@Nidatsky</a>
-  </div>
+## 📈 Stats
+<img width="100%" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=nickitas&show_icons=true&locale=en&theme=dark" alt="nickitas" />
+<img width="100%" style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickitas&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickitas" />
+<img width="100%" style="display: block; float: right;" src="https://github-readme-streak-stats.herokuapp.com/?user=nickitas&theme=dark" alt="nickitas" />
+
+
+## 📩 Contacts
+
+Contact me via
+
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Nidatsky)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nickitadatsky@gmail.com)
   
----
-
- <h2>🛠  My Tools</h2>
- 
- <div id="programming_languages">
-  <h3>Programming Languages :</h3>
-  <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="65" height="65"/>&nbsp;
-  </div>
-</div>
-
-<div id="frontend_dev">
-  <h3>Frontend Development :</h3>
-  <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="NextJS" alt="NextJS" width="65" height="65"/>&nbsp;
-    <img src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" title="TanStack Query" alt="TanStack Query" width="65" height="65"/>&nbsp;
-    <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" title="Zustand" alt="Zustand" width="110" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"  title="ViteJS" alt="ViteJS" width="65" height="65"/>&nbsp;
-   </div>
- </div>
-
-<div id="backend_dev">
-  <h3>Backend Development :</h3>
-   <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="65" height="65"/>&nbsp;
-  </div>
-</div>
-
-<div id="ai_ml">
-  <h3>AI/ML :</h3>
-  <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" alt="keras" width="65" height="65"/>&nbsp;
-  </div>
-</div>
-
-<div id="database">
-  <h3>Database and ORMs:</h3>
-  <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="mongoose" alt="mongoose" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="prisma" alt="prisma" width="65" height="65"/>&nbsp;
-  </div>
-</div>
-
-<div id="software">
-  <h3>Software :</h3>
-  <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="65" height="65"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="65" height="65"/>&nbsp;
-  </div>
-</div>
-
-<div id="other">
-  <h3>Other :</h3>
-  <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="65" height="65"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="65" height="65"/>&nbsp;
-  </div>
-</div>
-
 ---
 
 <div align="center">
