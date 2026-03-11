@@ -4,13 +4,7 @@
 
 <div id="badges" align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-2a0b34?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://vk.com/id180302602">
-    <img src="https://img.shields.io/badge/VK-2a0b34?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-  </a>
-  <a href="https://t.me/Nidatsky">
-    <img src="https://img.shields.io/badge/Telegram-2a0b34?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://www.codewars.com/users/Nickitas/badges/micro" alt="codewars bage"/>
   </a>
 </div>
 
