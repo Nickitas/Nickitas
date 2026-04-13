@@ -1,39 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&fontSize=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E0234E&height=150&section=header&fontSize=0&text=Hi,+I'm+Nickita&fontColor=FFFFFF"/>
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  <img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</div>
-
-<h1 align="center">
-  💫 Hi, I'm <span style="color: #E0234E">Nickita</span> 💫
-</h1>
-
-<div align="center">
-  <a href="https://nickitas.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/-🌟_PORTFOLIO_🌟-2a0b34?style=for-the-badge&logo=google-chrome&logoColor=white&color=2a0b34"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://www.codewars.com/users/Nickitas/badges/micro" alt="codewars badge"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nickitas&style=for-the-badge&color=2a0b34&label=✨+PROFILE+VIEWS+✨&logo=github&logoColor=white"/>
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=800&color=E0234E&center=true&vCenter=true&width=600&lines=A+passionate+developer+from+Russia;Web+%7C+AI+%7C+CyberSecurity;Lead+Frontend+Developer;Always+learning+new+things..." alt="Typing SVG"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://www.codewars.com/users/Nickitas/badges/micro" alt="codewars badge"/>
 </div>
 
 ---
@@ -74,7 +50,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🖥 Frameworks & Libraries
 
@@ -83,9 +58,8 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🎨 Styling & Tools
+### ⚙️ Tools
 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -97,8 +71,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickitas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=E0234E&title_color=E0234E"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickitas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E0234E"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nickitas&theme=radical&bg_color=0D1117&title_color=E0234E&icon_color=E0234E"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nickitas&theme=radical&bg_color=0D1117&title_color=E0234E"/>
 </div>
 
 <div align="center">
@@ -118,15 +92,12 @@
 [![Telegram](https://img.shields.io/badge/-@Nidatsky-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=30)](https://t.me/Nidatsky)
 [![Email](https://img.shields.io/badge/-nickitadatsky@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:nickitadatsky@gmail.com)
 [![GitHub](https://img.shields.io/badge/-@Nickitas-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/Nickitas)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2a0b34?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=30)](https://nickitas.github.io/Portfolio/)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 🎵 Random dev quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.&author=Cory+House"/>
 
@@ -141,5 +112,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E0234E&height=100&section=footer&fontSize=0"/>
 </p>
