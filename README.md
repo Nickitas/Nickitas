@@ -23,7 +23,7 @@
 
 I find Interest in **Web**, **Artificial Intelligence** & **Information Security**.
 
-- 🔭 I’m currently working on on algorithms for researching geometric images of coastal systems. You can follow my progress at [Aquatic-Coastal-Analysis](https://github.com/Nickitas/Aquatic-Coastal-Analysis);
+- 🔭 I’m currently working on on algorithms for researching geometric images of coastal systems. You can follow my progress at [quatic-Coastal-Analysis](https://github.com/Nickitas/Fractal-Approximation-Erosion-Simulation);
 
 - 🌱 I’m currently learning an postgraduate course in **Mathematical Modelling, Numerical Methods and Program Complexes**;
 
@@ -51,64 +51,15 @@ I find Interest in **Web**, **Artificial Intelligence** & **Information Security
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-##### 🖥 Frontend:
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+##### 🖥 Frameworks and libraries
 
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-![Zustand](https://img.shields.io/badge/-Zustand-614A1F?style=flat-square&logo=zustand)
-
-![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-
-##### ⚙ Backend:
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-##### 🗃 Database & ORMs:
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-
-##### 🤖 Machine Learning & AI:
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-##### 📊 Big Data:
-
-![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
-![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
-
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
-![HBase](https://img.shields.io/badge/-HBase-1BA3E8?style=flat-square&logo=apachehbase&logoColor=white)
-
 
 ## 📩 Contacts
 
@@ -120,12 +71,4 @@ Contact me via
 
 
 ## 📈 Stats
-<img width="100%" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=nickitas&show_icons=true&locale=en&theme=dark" alt="nickitas" />
-<img width="100%" style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickitas&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickitas" />
 <img width="100%" style="display: block; float: right;" src="https://github-readme-streak-stats.herokuapp.com/?user=nickitas&theme=dark" alt="nickitas" />
-
----
-
-<div align="center">
-  <img src="https://kms-technology.com/wp-content/uploads/2023/03/iStock-1360927961-1-scaled.jpg" width="100%" style="border-radius: 20px"/>
-</div>
