@@ -23,7 +23,7 @@
 </div>
 
 🔭 **Current work** — Developing algorithms for researching geometric images of coastal systems  
-📌 *Follow progress:* [Fractal-Approximation-Erosion-Simulation](https://github.com/Nickitas/Fractal-Approximation-Erosion-Simulation)
+📌 *Follow progress:* [litora-cli](https://github.com/Nickitas/litora-cli)
 
 🌱 **Currently learning** — Postgraduate course in *Mathematical Modelling, Numerical Methods and Program Complexes*
 
